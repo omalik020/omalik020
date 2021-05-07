@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omalik020
+- 👋 Hi, I’m @omalik
 - 👀 I’m interested in Coding, Tech, hacking.
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
